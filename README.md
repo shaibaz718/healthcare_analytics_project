@@ -113,11 +113,10 @@ Users can filter dashboard insights based on:
 
 1. Data Collection
 2. Data Cleaning and Preparation
-3. SQL Analysis
-4. Tableau Dashboard Development
-5. KPI Creation
-6. Visualization Design
-7. Business Insight Generation
+3. Tableau Dashboard Development
+4. KPI Creation
+5. Visualization Design
+6. Business Insight Generation
 
 ---
 
